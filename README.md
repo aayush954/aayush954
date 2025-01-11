@@ -1,6 +1,8 @@
 - 👋 Hi, I’m @aayush954
 - 👀 I’m interested in Compuer Science Engineering....
 - 🌱 I’m currently learning Python Programming....
+- Got awarded as best freshers in my furst hackathon in VIT Vellore.
+- 
 
 
 
