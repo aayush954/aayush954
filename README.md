@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @aayush954
 - 👀 I’m interested in Compuer Science Engineering....
-- 🌱 I’m currently learning Python Programming....
+- 🌱 Currently enrolled in the Cyber Security course at Cybrary..
 - Got awarded as best freshers in my first hackathon in VIT Vellore.
 - 
 
